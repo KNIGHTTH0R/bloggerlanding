@@ -57,20 +57,10 @@
   <div class="section values">
     <div class="container">
       <div class="row">
-        <div class="one-third column value">
-          <h2 class="value-multiplier">67%</h2>
-          <h5 class="value-heading">Purchase Increase</h5>
-          <p class="value-description">Percentage of users more likely to purchase on mobile friendly site.</p>
-        </div>
-        <div class="one-third column value">
-          <h2 class="value-multiplier">90%</h2>
-          <h5 class="value-heading">Multi-device Users</h5>
-          <p class="value-description">Most of the world accesses the internet on multiple devices.</p>
-        </div>
-        <div class="one-third column value">
-          <h2 class="value-multiplier">66%</h2>
-          <h5 class="value-heading">Sad Users</h5>
-          <p class="value-description">Percentage of users that are frustrated with page load times.</p>
+        <div class="twelev column value">
+          <div class="bagian_awal">
+            <h2 class="value-heading"><b>Tools fenomenal </b> yang Dapat <b>Menggali Potensi</b> "Harta Karun" Facebook, Menemukan <b>Calon Penonton Iklan Potensial</b> tak terbatas Dalam Waktu yang <b>Sangat Singkat! </b> Dan telah digunakan oleh <span style="background: #f31111">&nbsp; <b>4.400+</b> </span> Pebisnis Online <b>seperti Kamu...</b></h2>
+          </div>
         </div>
       </div>
     </div>
@@ -99,7 +89,7 @@
     <div class="container">
       <div class="row">
         <div class="four columns">
-        <img class="img-responsive img-circle" src="http://insightzilla.com/wp-content/uploads/2016/02/photo.png"/>
+        <img class="img-responsive img-circle" src="images/photo.png"/>
         <h5 class="value-heading"><b>Nofi Bayu Darmawan</b></h5>
         <p class="kata_mereka"><a href="https://learn.hootsuite.com/u/nofibayu">Social Media Consultant</a>, Founder <a href="http://fanspage.co.id/">FanspageID</a> (Agency Facebook Marketing yang telah menghandle lebih dari 1000+ UKM dan Brands di Indonesia)</p>
         </div>
@@ -132,12 +122,14 @@
       <div class="bagian2">
       <h4><b>Menghadirkan Special Untuk Kamu.....</b></h4>
       <h5 align="center"><b>Dan sebelumnya telah digunakan oleh <span style="background-color: rgb(253, 249, 87);">4.400+</span>  Marketer dari Indonesia & Malaysia</b></h5>
-      <img src="http://insightzilla.com/wp-content/uploads/2016/02/cover-iz-3d.png"/>
+      <img src="images/cover-iz-3d.png"/>
       <h4>Versi 3.0 <br> <span  style="background-color: rgb(255, 204, 0);">&nbsp;Lebih Powerfull </span> dari Versi Sebelumnya</h4>
-      <center><img src="http://insightzilla.com/wp-content/uploads/2016/02/Screen-Shot-2017-01-13-at-4.11.08-PM.png"/></center>
+      <center><img src="images/Screen-Shot-2017-01-13-at-4.11.08-PM.png"/></center>
       </div>
     </div>
   </div>
+
+  
 
    <div class="section get-help">
     <div class="container">
@@ -172,61 +164,497 @@
 
   <div class="section categories">
     <div class="container">
-      <h3 class="section-heading">Responsive Images</h3>
-      <p class="section-description">Skeleton images sit easily in grid with .u-max-full-width class. I suggest exploring solution to serving different images based on device size.</p>
+      <h3 class="section-heading">22 Alasan</h3>
+      <p class="section-description">Mengapa Advertiser Facebook Seperti Kamu. Jangan Sampai Melewatkan InsightZilla!</p>
       <div class="row">
         <div class="one-half column category">
-          <img class="u-max-full-width" src="http://insightzilla.com/wp-content/uploads/2016/02/ezgif.com-video-to-gif-19.gif">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
         </div>
         <div class="one-half column category">
 
         <div class="kata_mereka2">
           <ul class="green-check1">
-            <li> Menjangkau <b>lebih banyak orang </b>dengan biaya yang murah...<br/></br>
-            Kenapa? Semakin <b> tepat targeting</b>, semakin banyak orang yang action pada iklan facebook kita (CTR), ketika semakin banyak result dalam performance facebook ads, maka daya jangkau iklan akan semakin luas dari biasanya....
+            <li><h5>Kamu Ga Lagi Bingung Bagaimana Menggali Ide Targeting Facebook Ads dengan Hadirnya InsightZilla.... Mengapa? Kamu perlu membaca lanjutannya hingga akhir, sehingga kamu tahu mengapa harus menggunakan InsightZilla....</h5>
+            <p>
+            Mengapa? Kamu perlu membaca lanjutannya hingga akhir, sehingga kamu tahu mengapa harus menggunakan InsightZilla....</p>
             </li>
-            <li>Lebih meningkatkan <b>konversi sales</b> karena targetnya tepat...</li>
+            
           </ul>
-        </div>
-         1. Kamu Ga Lagi Bingung Bagaimana Menggali Ide Targeting Facebook Ads dengan Hadirnya InsightZilla....
 
-Mengapa? Kamu perlu membaca lanjutannya hingga akhir, sehingga kamu tahu mengapa harus menggunakan InsightZilla....
+        </div>
+         
         </div>
       </div>
 
       <div class="row">
         <div class="one-half column category">
-          <img class="u-max-full-width" src="http://insightzilla.com/wp-content/uploads/2016/02/ezgif.com-video-to-gif-19.gif">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
         </div>
         <div class="one-half column category">
-          <img class="u-max-full-width" src="images/placeholder.png">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>Bingung Ide Targeting? Awali Dari SIMPLE Keyword (Kata Kunci)! Mulai Menggunakan InsightZilla dari hal yang Mudah dan Simple...</h5>
+            <p>
+            1 Simple Keyword (Kata Kunci yang mudah yang ada di pikiranmu), akan membuka pintu gerbang potensi "harta karun" audience untuk targeting iklan facebook. Tak perlu lelah brainstorming otak kanan dan ketik satu persatu..., ada ide muncul? Masukan!</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>SEKALI Klik dan "BIG DATA" Terbuka...</h5>
+            <p>Klik and Go! Tanpa repot, dan tara! Muncul banyak sekali "ikan-ikan" yang siap kamu pancing untuk target iklan...., apapun segmen bisnis kamu? ketikan hal yang mudah dan GO...!</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>4. Berapa Baris Data Yang Kamu Butuhkan, Dapat Kamu Lihat Dalam 1 Halaman...</h5>
+            <p>Audience yang didapatkan sangat banyak..., dan kamu bisa menampilkan semau kamu di 1 halaman...., enak kan?</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>5. Dan Jangan Khawatir Bahwa Kami Siapkan Sortir Berdasarkan Category Targeting....</h5>
+            <p>Targeting apa yang sesuai dengan jenis kamu? ketertarikan, hobby, kesukaan,  jurusan saat kuliah, pelajaran saat sekolah,  tempat kuliah/sekolah, pekerjaan dan apa yang dikerjakan dipekerjaannya..., semua lengkap disini terkait perilaku audience..</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>6. Dan Apa Prioritas Kamu Dalam Pemilihan Audience? Kamu bisa sortir dari segi Jumlah Audience dari targeting mana yang terbanyak...</h5>
+            <p>Berapa jumlah ideal audience yang kamu target? kamu bisa estimasikan dengan melihat data jumlah calon penonton serta bisa mengurutkannya dari mulai paling banyak..., "ikan-ikan siap dikumpulkan..."</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>7. Capek Milih? Kamu Bisa Pilih Semua Audience yang Tampil di 1 Halaman itu...</h5>
+            <p>Pilih "Select All" dan semua calon penonton siap ditarget semuanya dengan 1 kali KLIK....</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>8. Atau Kamu Ingin Mengecek Mana yang Paling Relevan, dan Mengecek Jumlah-Jumlahnya, kamu bisa checklist sesuai keinginan...</h5>
+            <p>Mungkin kamu ingin lebih teliti, mengecek berdasarkan relevansi nama dan jumlah audience yang pas, tinggal check, check, cheklist yang kamu mau...</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>9. Jika kamu ingin riset manual, pun InsightZilla dilengkapi fitur canggih, yaitu sebuah penanda fanpage-fanpage yang masuk INTEREST dengan sebuah icon api.</h5>
+            <p>Bukan cuma itu, kamu ga perlu copy atau ketik ulang nama fanpage yang ingin diriset, namun cukup klik tanda api (sama saja meng-copy), lalu tinggal paste di audience insight untuk lanjut riset!</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>10. Hmm, tools ini bukan cuma berbasis Keyword, namun berbasis Relevansi.., targeting yang muncul jadi ga terbatas deh...</h5>
+            <p>Tidak seperti mesin pencari, audience yang kamu temukan.., available juga untuk audience yang relevan ..., buktikan...</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>11 . Enaknya.., bisa difilter dengan fitur search.....</h5>
+            <p>Banyaknya hasil yang muncul, kamu bisa pastikan lagi dengan menyerap berdasarkan kata kunci tambahan...  :)</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>12. Ingin Menggali Lebih Dalam "Harta Karun" nya? Mari Gunakan Fitur Related Page, dan Taraaa....</h5>
+            <p>Memperluas audience-audience yang relevan yang mirip dengan audience yang ditarget..., fitur ini mungkin tidak kamu jumpai di tools-tools lainnya..., selamat menikmati...
+
+    Ini akan membuat kamu menemukan "dunia baru" dimana penonton iklan yang potensial berada disitu...</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+       <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>13. Kamu, betapa senangnya bisa memilih Fanpage yang relevan dari interest yang dicari, dan difilter lagi berdasarkan banyaknya dan seberapa miripnya  (AFFINITY)..., mantap...</h5>
+            <p>Sortir fanpage yang relevan berdasarkan jumlah yang terbanyak, bisa...
+
+     Sortir fanpage yang relevan berdasarkan tingkat kemiripan (affinity), bisa....</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>14. Dan jika kamu ingin "Kepo" dengan cara cerdas, lihatlah kolom Talking About This. Jadi kamu bisa analisa ke-aktifan audience yang mau kamu target..., dapat diurutkan dari yang terbesar pulaaa...</h5>
+            <p>Ingin lebih detail lagi menganalisis fanpage yang relevan? Bisa dengan klik link fanpage nya atau langsung saja analisa seberapa aktif, kamu bisa dapatkan data itu di Talking About This (TAT) ...</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>15. Akhirnya, hanya butuh 1 kali KLIK untuk meng-copy hasil kerjamu, baik dari targeting by keyword maupun related page..., Boom!</h5>
+            <p>Tinggal pencet copy targeting-targeting yang kamu checklist...., dan beres......</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>16. FITUR yang MANTAP! Bisa mendeteksi Fanpage yang RELEVAN DAN Sudah Masuk dalam INTEREST atau TIDAK...</h5>
+            <p>Fitur yang sangat mantap! Jika kita menggunakan fitur bawaan Facebook, yaitu Audience Insight, tidak dijumpai fitur yang keren banget kayak gini!</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>17. Fitur EXPAND di Audience Insight: Untuk melihat lebih detail dan tidak terpotong Interest yang tampil di Audience Insight</h5>
+            <p>terlihat juga Category Interest-nya! Sehingga terlihat jelas interestnya secara lengkap dan tidak asal klik dan salah pilih!</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>18. Jadikan ukuran target Audience-mu update secara real dengan melihat total audience yang yang sudah kamu kumpulkan.../h5>
+            <p>Sudah berapa jumlah audience yang kamu kumpulkan? Ideal kah? Mari monitor....
+    </p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>19. Semudah Ctrl C + Ctrl V (Copy Paste), data yang kamu pilih dan analisa, langsung masukan di Bagian Targeting Facebook Ads dengan meluangkan waktu 1 Detik, dan Paste..... !</h5>
+            <p>Sangat Mudah dan Cepat!</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>20. Kamu bisa pake INTEREST yang kamu riset dengan InsightZilla sewaktu-waktu karena ada fitur SAVE data interest!</h5>
+            <p>
+      Hal ini menjadikan kamu tidak bolak balik lagi riset!</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>21. Fitur Wide-Insight: Untuk men-generate ide Interest dari Wikipedia, Movie, Books dan Domain Sebuah Web!</h5>
+            <p>Sangat-sangat bermanfaat! menggali dan menemukan interest-interest baru!</p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5>22. Fitur Klik Kanan Analisa Interest; memudahkan ketika kita menemukan fanpage dan ingin dianalisa apakah masuk interest atau tidak...</h5>
+            <p>Kadang kita berselancar di internet untuk riset, lihat-lihat fanpage orang lain, nah dengan fitur ini langsung sekali klik kanan kita bisa tau fanpage ini masuk interest atau tidak!  </p>
+            </li>
+          </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/ezgif.com-video-to-gif-19.gif">
+        </div>
+        <div class="one-half column category">
+          <div class="kata_mereka2">
+          <ul class="green-check1">
+            <li><h5></h5>
+            <p></p>
+            </li>
+          </ul>
+          </div>
         </div>
       </div>
 
     </div>
   </div>
 
-  <div class="section categories">
+<div class="section values">
     <div class="container">
-      <h3 class="section-heading">Responsive Images</h3>
-      <p class="section-description">Skeleton images sit easily in grid with .u-max-full-width class. I suggest exploring solution to serving different images based on device size.</p>
+    <div class="bagian2">
+        <h4><b>BONUS - BONUS , Mantap !!!</b></h4>
+        <h5 align="center"><b>(16 Video) Pembelajaran Facebook Advertising <br/>(Total Lebih Dari Durasi 6 Jam)</b><br/>
+        yang mana, SEMUANYA Langsung dibuat oleh Nofi Bayu Darmawan</h5>
+      </div>
+    </div>
+</div>
+
+<div class="section get-help">
+    <div class="container">
       <div class="row">
-        <div class="one-half column category">
-          <img class="u-max-full-width" src="images/placeholder.png">
+        <div class="one-third column value">
+          <img width="100%" src="images/retargeting.png">
+          <h5 class="value-heading">Panduan Retargeting Facebook</h5>
+          <p class="value-description">Pernah rasanya dikejar-kejar oleh iklan facebook ketika kamu baru aja mengunjungi sebuah web? Kini, kamu bisa melakukannya</p>
         </div>
-        <div class="one-half column category">
-          <img class="u-max-full-width" src="images/placeholder.png">
+        <div class="one-third column value">
+          <img width="100%" src="images/menjaring_reseller.png">
+          <h5 class="value-heading">Tips Menjaring Reseller via Facebook Ads</h5>
+          <p class="value-description">Dengan reseller, effort marketing kamu menjadi tidak terlalu besar. Nah, bagaimana tips menjaring banyak Reseller via Facebook Ads? Tonton!</p>
+        </div>
+        <div class="one-third column value">
+          <img width="100%" src="images/optimasi_iklan.png">
+          <h5 class="value-heading">Optimasi Iklan Facebook Biaya Murah</h5>
+          <p class="value-description">Dengan budget yang sama, akan ber-impact kepada jangkauan iklan yang tidak sama. Nah, mari kupas bagaimana optimasinya agar maksimal.</p>
         </div>
       </div>
     </div>
-  </div>
+</div>
 
 
+<div class="section values">
+    <div class="container">
+    <div class="bagian2">
+        <h4><b>BONUS Lagii... WOW !!!</b></h4>
+        <h5 align="center"<b>Ada 12 Video Tips Targeting Facebook Ads untuk Berbagai Produk/Penawaran</b></h5>
+      </div>
+    </div>
+</div>
+
+<div class="section get-help">
+    <div class="container">
+      <div class="row">
+        <div class="one-third column value">
+          <img width="100%" src="images/1cover-panduan-anak.png">
+        </div>
+        <div class="one-third column value">
+          <img width="100%" src="images/1cover-panduan-anak.png">
+        </div>
+        <div class="one-third column value">
+          <img width="100%" src="images/1cover-panduan-anak.png">
+        </div>
+      </div>
+      <div class="row">
+        <div class="one-third column value">
+          <img width="100%" src="images/1cover-panduan-anak.png">
+        </div>
+        <div class="one-third column value">
+          <img width="100%" src="images/1cover-panduan-anak.png">
+        </div>
+        <div class="one-third column value">
+          <img width="100%" src="images/1cover-panduan-anak.png">
+        </div>
+      </div>
+      <div class="row">
+        <div class="one-third column value">
+          <img width="100%" src="images/1cover-panduan-anak.png">
+        </div>
+        <div class="one-third column value">
+          <img width="100%" src="images/1cover-panduan-anak.png">
+        </div>
+        <div class="one-third column value">
+          <img width="100%" src="images/1cover-panduan-anak.png">
+        </div>
+      </div>
+    </div>
+</div>
 
 
+<div class="section values">
+    <div class="container">
+    <div class="bagian2">
+        <h4><b>Ada Lagi BONUSNYA.. WOW !!!</b></h4>
+        <h5 align="center"><b>Bonus [VIDEO] Traffic Fusion</b><br/>Perpaduan Antara Facebook Ads & Adwords (Google Ads) Untuk Melejitkan Toko Online Walau Baru Pertama Kali Berdiri</h5>
+      </div>
+    </div>
+</div>
 
+<div class="section get-help">
+    <div class="container">
+      <div class="row">
+        <div class="twelev column value">
+          <img width="100%" src="images/trafik_fussion.png">
+        </div>
+      </div>
+    </div>
+</div>
 
-<!-- End Document
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div class="section values">
+    <div class="container">
+    <div class="bagian2">
+        <h4><b>Terakhir BONUS ... terimakasih !!!</b></h4>
+        <h5 align="center"><b>Bonus [VIDEO] Pixel Mastery (1 Jam 45 Menit)</b><br/>Bagaimana memaksimalkan iklan kita dengan PIXEL. Step by step agar iklan kita dapat mengendus orang-orang yang berkonversi dengan bantuan PIXEL Facebook</h5>
+      </div>
+    </div>
+</div>
+
+<div class="section get-help">
+    <div class="container">
+      <div class="row">
+        <div class="one-third column value">&nbsp;</div>
+        <div class="one-third column value">
+          <img width="100%" src="images/pixel-mastery.png">
+        </div>
+        <div class="one-third column value"></div>
+      </div>
+    </div>
+</div>
+
+<div class="section get-help">
+    <div class="container">
+      <div class="row">
+        Jangan shock ketika kamu mengeluarkan sekitar  67$  atau setara Rp. 900.000,- untuk mendapatkan tools research seperti ini di luar negeri sana..., belum lagi fitur yang tidak selengkap InsightZilla kamu tidak dapatkan.., dan kamu dapat berinvestasi dengan tidak merogoh kocek terlalu dalam untuk #KaryaAnakBangsa ini...
+      </div>
+    </div>
+</div>
+
+<!-- End Document-->
 </body>
 </html>

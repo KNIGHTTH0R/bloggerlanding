@@ -30,16 +30,19 @@
 .post-footer-line{}
 
 /* ==kreasi aam==*/
+.bagian_awal{text-align: center; margin-bottom: 10rem; margin-top: 10rem;}
+.bagian_awal h2 { font-size: 2.5em; line-height: 1.5;}
 .bagian1{text-align: left; font-size: 1.2em;}
 .green-check1 {list-style: none !important; }
 .bagian1 ul.green-check1 li {
   padding: 0 0 20px 40px !important;
   margin-bottom: 0rem;
-  background: url(http://insightzilla.com/wp-content/plugins/instabuilder2/assets/img/graphics/bullets/check-circle-green.png) no-repeat top left !important;
+  background: url(../images/check-circle-green.png) no-repeat top left !important;
 }
 
 .bagian2{text-align: left; font-size: 1.2em;}
-.bagian2 h4 {line-height: 1.3; font-family: "sans-serif"; text-align: center;}
+.bagian2 h4 {line-height: 1.3; font-family: "sans-serif"; text-align: center; margin-bottom: 0rem;}
+.bagian2 h5 {line-height: 1.3; font-family: "sans-serif"; text-align: center; margin-bottom: 0rem;}
 .bagian2 img {vertical-align: middle; max-width: 100%;}
 
 .img-responsive {
@@ -62,7 +65,7 @@
 .kata_mereka2 ul.green-check1 li {
   padding: 0 0 20px 40px !important;
   margin-bottom: 0rem;
-  background: url(http://insightzilla.com/wp-content/plugins/instabuilder2/assets/img/graphics/bullets/check-circle-green.png) no-repeat top left !important;
+  background: url(../images/check-circle-green.png) no-repeat top left !important;
 }
 
 
@@ -200,7 +203,7 @@
 /* Bigger than 1000 */
 @media (min-width: 1000px) {
   .section {
-    padding: 8rem 0 8rem;
+    padding: 2rem 0 2rem;
   }
   .hero {
     padding: 12rem 0;
